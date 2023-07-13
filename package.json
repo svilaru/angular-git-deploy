@@ -31,7 +31,7 @@
     "@angular/upgrade": "~9.1.4",
     "@nguniversal/express-engine": "^9.1.1",
     "angular-in-memory-web-api": "~0.11.0",
-    "express": "^4.15.2",
+    "express": "^4.18.2",
     "rxjs": "~6.5.4",
     "zone.js": "~0.10.3"
   },
